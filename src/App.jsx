@@ -7,7 +7,7 @@ import SocialActivities from "./components/layouts/SocialActivities"
 function App() {
   return (
     <div className="bg-black ">
-      <div className="h-2"></div>
+      <div className="h-3"></div>
       <Introduction></Introduction>
       <Compentencies></Compentencies>
       <SocialActivities></SocialActivities>
